@@ -51,7 +51,7 @@ const Sidebar = (props) => {
       </p>
       {/* Resume */}
       <a
-        href=""
+        href="amin.pdf/"
         download=""
         className="flex items-center justify-center px-2 py-1 my-2 bg-gray-200 rounded-full cursor-pointer dark:bg-dark-200 dark:bg-black-500"
       >
