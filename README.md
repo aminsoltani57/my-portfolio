@@ -3,11 +3,12 @@
 Build Portfolio with ReactJS,NextJS,TypeScript,TailWind
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/84838451/178807323-9906574e-ae81-45c5-8795-7cd8873f1113.png)
 
 
 
 ## Demo Online
-aminsoltani.ir
+https://aminsoltani.ir/
 
 
 ## Authors
